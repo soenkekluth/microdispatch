@@ -1,0 +1,15 @@
+{
+  "presets": [
+    [
+      "es2015", {
+        "modules": false,
+        "loose": true
+      }
+    ]
+  ],
+  "plugins": [
+    "external-helpers",
+    "transform-es2015-parameters",
+    "transform-object-rest-spread"
+  ]
+}

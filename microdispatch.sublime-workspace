@@ -1,0 +1,2417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"conso",
+				"console.\tconsole.log()"
+			],
+			[
+				"error",
+				"console.error();"
+			],
+			[
+				"App",
+				"App.prod.js"
+			],
+			[
+				"cur",
+				"cur-ha\tcursor: hand;"
+			],
+			[
+				"prod",
+				"Root.prod.js"
+			],
+			[
+				"SectionDe",
+				"SectionDesign.prod.js"
+			],
+			[
+				"render",
+				"renderItems(children) -> []\tfn "
+			],
+			[
+				"con",
+				"constants/"
+			],
+			[
+				"Navigat",
+				"NavigationComponent(props) -> bool\tfn "
+			],
+			[
+				"co",
+				"core/"
+			],
+			[
+				"Drop",
+				"DropdownItem.js"
+			],
+			[
+				"static",
+				"webpack.config.dev.static.js"
+			],
+			[
+				"r",
+				"rcc\tReact: component skeleton"
+			],
+			[
+				"we",
+				"webpack.config.common.js"
+			],
+			[
+				"BUILD_",
+				"BUILD_STATIC_ASSETS"
+			],
+			[
+				"bui",
+				"build_static"
+			],
+			[
+				"re",
+				"renderDom.js"
+			],
+			[
+				"pos",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"de",
+				"device2.js"
+			],
+			[
+				"clear",
+				"clearTimeout(timer);"
+			],
+			[
+				"initialize",
+				"initializeWhen"
+			],
+			[
+				"pat",
+				"paths.prod.js"
+			],
+			[
+				"Header",
+				"HeaderVideo.js"
+			],
+			[
+				"e",
+				"dispatcher.js"
+			],
+			[
+				"a",
+				"autoref.js"
+			],
+			[
+				"Mo",
+				"Modal.js"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"headline",
+				"headlineInView"
+			],
+			[
+				"cle",
+				"clearTimeout(timer);"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"po",
+				"pos-f\tposition: fixed;"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"next",
+				"nextState\t? "
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"curre",
+				"currentVideo\t? "
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"sho",
+				"showIng\tbool "
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"Text",
+				"TextEffect.scss"
+			],
+			[
+				"cons",
+				"console.log();"
+			],
+			[
+				"write",
+				"fs.writeFileSync(path, data, options);"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"on",
+				"onClickFelge\tfn "
+			],
+			[
+				"cla",
+				"className\t{} "
+			],
+			[
+				"class",
+				"className\t? "
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"Mob",
+				"MobileBottomPanel.scss"
+			],
+			[
+				"set",
+				"setFelge\tfn "
+			],
+			[
+				"fl",
+				"fl-r\tfloat: right;"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"onProcess",
+				"onProcessEnd"
+			],
+			[
+				"hide",
+				"hideCurrent"
+			],
+			[
+				"animal",
+				"animalGroup\t? "
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pars",
+				"parsedValue\t{} "
+			],
+			[
+				"querySelector",
+				"querySelectorAll"
+			],
+			[
+				"ex",
+				"export\t? "
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"Section",
+				"SectionContent\t? "
+			],
+			[
+				"ic",
+				"iconRight\t? "
+			],
+			[
+				"doc",
+				"documentElement                           (obj)  [E]"
+			],
+			[
+				"cd",
+				"cdup\tReact: componentDidUpdate(pp, ps) {…}"
+			],
+			[
+				"update",
+				"updatePercent\tfn "
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"sc",
+				"scu\tReact: shouldComponentUpdate(np, ns) {…}"
+			],
+			[
+				"initILIZE",
+				"initialize"
+			],
+			[
+				"st",
+				"stopRender\tfn "
+			],
+			[
+				"get",
+				"getElementById                            (fn)   [E]"
+			],
+			[
+				"cw",
+				"cwup\tReact: componentWillUpdate(np, ns) {…}"
+			],
+			[
+				"Sect",
+				"SectionTest\tfn "
+			],
+			[
+				"s",
+				"scu\tReact: shouldComponentUpdate(np, ns) {…}"
+			],
+			[
+				"POS",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"slide",
+				"Slideshow.scss"
+			],
+			[
+				"para",
+				"paralluxAttr\tbool "
+			],
+			[
+				"PropTy",
+				"PropTypes"
+			],
+			[
+				"in",
+				"inline-prefixer.js"
+			],
+			[
+				"cwu",
+				"cwu\tReact: componentWillUpdate: fn(np, ns) { ... }"
+			],
+			[
+				"query",
+				"querySelector                             (fn)   [E]"
+			],
+			[
+				"ini",
+				"initSlides2\tfn "
+			],
+			[
+				"SHOW_PRELOADER",
+				"SHOW_PRELOADER_START\tstr "
+			],
+			[
+				"ami",
+				"animatLeave          (bool) [E]"
+			],
+			[
+				"Para",
+				"ParallaxImage.scss"
+			],
+			[
+				"Lorem",
+				"module._load(request, parent, isMain);"
+			],
+			[
+				"clas",
+				"className\tbool "
+			],
+			[
+				"nex",
+				"nextProps\t? "
+			],
+			[
+				"pre",
+				"preloaderHide        (bool) [E]"
+			],
+			[
+				"MODA",
+				"MODAL_CLOSED          (str) [E]"
+			],
+			[
+				"MODAL",
+				"MODAL_OPENED          (str) [E]"
+			],
+			[
+				"Hea",
+				"Headline.scss"
+			],
+			[
+				"component",
+				"componentDidMount"
+			],
+			[
+				"classname",
+				"classnames\tfn "
+			],
+			[
+				"querySe",
+				"querySelectorAll                          (fn)   [E]"
+			],
+			[
+				"v",
+				"v3/"
+			],
+			[
+				"cl",
+				"className\t{} "
+			],
+			[
+				"Se",
+				"SectionDesign.scss"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"inn",
+				"innerWidth (num)"
+			],
+			[
+				"time",
+				"timeEnd (fn)"
+			],
+			[
+				"wat",
+				"watch-css"
+			],
+			[
+				"lo",
+				"logger.js"
+			],
+			[
+				"brows",
+				"browserSync"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"first",
+				"firstElementChild (obj)"
+			],
+			[
+				"log",
+				"logObj         (fn)  [S]"
+			],
+			[
+				"Sticky",
+				"StickyStateInstance"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"list",
+				"list-n\tlist-style-type: none;"
+			],
+			[
+				"ima",
+				"imageUrl2x\t(str)"
+			],
+			[
+				"index",
+				"indexOf(elt, from?)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/decorator.js",
+			"settings":
+			{
+				"buffer_size": 240,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rollup.config.js",
+			"settings":
+			{
+				"buffer_size": 1833,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.js",
+			"settings":
+			{
+				"buffer_size": 60,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"conso",
+				"Snippet: console.debug(object)"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"js",
+				"JSFMT: Format the current file"
+			],
+			[
+				"sty",
+				"Run Stylefmt"
+			],
+			[
+				"jscs",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"das",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"esform",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"jsfm",
+				"JSFMT: Format the current file"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"react",
+				"Snippet: React: wrap in a component"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"reac",
+				"Snippet: React: class component"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"str",
+				"String Utilities: Convert camelCase <-> Underscores"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"tern",
+				"tern_for_sublime: Disable Project"
+			],
+			[
+				"css",
+				"Format CSS: Expanded (Break Selectors)"
+			],
+			[
+				"str cam",
+				"String Utilities: Convert camelCase <-> Underscores"
+			],
+			[
+				"forma",
+				"JSFMT: Format the current file"
+			],
+			[
+				"text",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"json",
+				"Pretty JSON: Validate"
+			],
+			[
+				"camel",
+				"String Utilities: Convert camelCase <-> Underscores"
+			],
+			[
+				"for",
+				"JSFMT: Format the current file"
+			],
+			[
+				"conv",
+				"String Utilities: Convert camelCase <-> Underscores"
+			],
+			[
+				"conver cam",
+				"String Utilities: Convert camelCase <-> Underscores"
+			],
+			[
+				"str und",
+				"String Utilities: Convert camelCase <-> Underscores"
+			],
+			[
+				"strin",
+				"String Utilities: Convert camelCase <-> Underscores"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"form",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"j",
+				"JsPrettier: Format JavaScript"
+			],
+			[
+				"filed",
+				"FileDiffs: Menu"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"css ",
+				"Format CSS: Expanded (Break Selectors)"
+			],
+			[
+				"fo",
+				"JSFMT: Format the current file"
+			],
+			[
+				"cam",
+				"String Utilities: Convert camelCase <-> Underscores"
+			],
+			[
+				"string",
+				"String Utilities: Convert Chars to HTML Entities"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"jsf",
+				"JSFMT: Format the current file"
+			],
+			[
+				"jspr",
+				"JsPrettier: Format JavaScript"
+			],
+			[
+				"jsp",
+				"JsPrettier: Format JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"form css",
+				"Format CSS: Expanded (Break Selectors)"
+			],
+			[
+				"case",
+				"String Utilities: Convert camelCase <-> Underscores"
+			],
+			[
+				"case un",
+				"String Utilities: Convert PascalCase <-> Underscores"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"dock",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"docker",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"sas",
+				"SassBeautify"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"u",
+				"Open URL"
+			],
+			[
+				"s",
+				"SassBeautify"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jsc",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"jss",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html ",
+				"HTMLPrettify"
+			],
+			[
+				"beat",
+				"SassBeautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"instakl",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"JS",
+				"Set Syntax: JSON"
+			],
+			[
+				"Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snyta",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ej",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"sxcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"alig",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 728.0
+	},
+	"console":
+	{
+		"height": 446.0,
+		"history":
+		[
+			"ls",
+			"clear()",
+			"clean()",
+			"clean",
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/soenke/Developer/Workspaces/Github/microdispatch",
+		"/Users/soenke/Developer/Workspaces/Github/microdispatch/src"
+	],
+	"file_history":
+	[
+		"/Users/soenke/Developer/Workspaces/Github/microdispatch/package.json",
+		"/Users/soenke/Developer/Workspaces/Github/microdispatch/src/microdispatch.js",
+		"/Users/soenke/Developer/Workspaces/Github/microdispatch/es/microdispatch.js",
+		"/Users/soenke/Developer/Workspaces/Github/microdispatch/rollup.config.js",
+		"/Users/soenke/Developer/Workspaces/Github/microdispatch/test.js",
+		"/Users/soenke/Developer/Workspaces/Github/microdispatch/src/index.js",
+		"/Users/soenke/Developer/Workspaces/Github/microdispatch/src/decorator.js",
+		"/Users/soenke/Developer/Workspaces/Github/microdispatch/microdispatch.sublime-project",
+		"/Users/soenke/Library/Application Support/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/Users/soenke/Developer/Workspaces/Github/image-player/examples/assets/OS_body_anders.json",
+		"/Users/soenke/Developer/Workspaces/Github/image-player/examples/assets/OS_body_tangerine_comet.json",
+		"/Users/soenke/Developer/Workspaces/Github/image-player/examples/assets/OS_roof_black_highgloss.json",
+		"/Users/soenke/Developer/Workspaces/Github/image-player/examples/assets/OS_shadow.json",
+		"/Users/soenke/Developer/Workspaces/Github/image-player/examples/assets/OS_wheel_18inch_alloy.json",
+		"/Users/soenke/Developer/Workspaces/Github/image-player/examples/index.html",
+		"/Users/soenke/Developer/Workspaces/Github/image-player/src/animal/animal.js",
+		"/Users/soenke/Developer/Workspaces/Github/image-player/src/animal/util/filterProps.js",
+		"/Users/soenke/Developer/Workspaces/Github/image-player/rollup.config.js",
+		"/Users/soenke/Developer/Workspaces/Github/image-player/examples/kmpkt.html",
+		"/Users/soenke/Developer/Workspaces/Github/image-player/TODO",
+		"/Users/soenke/Developer/Workspaces/Github/image-player/src/FrameObserver.js",
+		"/Users/soenke/Desktop/untitled.js",
+		"/Users/soenke/Developer/Workspaces/Github/image-player/package.json",
+		"/Users/soenke/.aliases",
+		"/Users/soenke/.functions",
+		"/Users/soenke/Library/Caches/com.binarynights.ForkLift2/#0/.htaccess",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/App/App.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionDesign/SectionDesign.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/TiltView.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionFeatures/SectionFeatures.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/TextSlideShowHighlights3.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/TextSlideShowHighlights2.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/TextSlideShowHighlights1.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionGallery/SectionGallery.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/ModalGallery.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/App.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/TextSlideShowDesign.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/Section360View/Section360View.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionFeatures/SectionFeatures.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionGallery/SectionGallery.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionSpecialOffer/SectionSpecialOffer.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionSurpriseDrive/SectionSurpriseDrive.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionTestDrive/SectionTestDrive.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/isProd.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/package.json",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/assets/assets.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/lib/imageplayer/image-player.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/Section.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/SwipeComponent.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/LazySectionProvider.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/CoreComponent.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/SwipeComponent.scss",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/config/webpack.config.common.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/index.scss",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/ComponentProvider.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/core/store.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/Header.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/Header.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/SlideShow.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/AccordionItem.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/constants/contextTypes.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/Navigation.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/ImagePlayerCore.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/HeaderVideoTablet.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/HeaderVideoMobile.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/utils/lazyload.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/Configurator.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionDesign.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/Main.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/Root.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/Section360View.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/actions/app-actions.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/reducers/app-reducer.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionTestDrive/SectionTestDrive.scss",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionGallery.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionSpecialOffer.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionSurpriseDrive.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionTestDrive.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionWarranty.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/Configurator.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/Header.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/Navigation.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/Footer.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionFeatures.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionSpecialOffer/SectionSpecialOffer.scss",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/Section360View/Section360View.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionBooking.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionDesign/SectionDesign.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionDriveWise.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionSpecialOffer/SectionSpecialOffer.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionSurpriseDrive/SectionSurpriseDrive.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionTestDrive/SectionTestDrive.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionWarranty/SectionWarranty.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionWarranty/SectionWarranty.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/Footer/Footer.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/Footer/Footer.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/Footer/Footer.scss",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionGallery.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionGallery.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/Grid.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/.babelrc",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/core/dispatcher.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/.jsbeautifyrc",
+		"/Users/soenke/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionDesign.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/GridItem.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/utils/mediaLoaded.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/lib/imageplayer/loadImage.js",
+		"/Users/soenke/Library/Application Support/Sublime Text 3/Packages/SublimePrettier/SublimePrettier.sublime-settings",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/Navigation.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/lib/animal/animal.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/utils/env.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/config/config.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/scripts/build.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/index.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/utils/inViewport.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionSurpriseDrive.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionTestDrive.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionSurpriseDrive.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/utils/device.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/utils/os.js",
+		"/Users/soenke/Library/Application Support/Sublime Text 3/Packages/User/SublimePrettier.sublime-settings",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionTestDrive.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/index.prod.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/index.dev.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/TODO.md",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/components/Dropdown.js",
+		"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers/SectionDesign.dev.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			"*.json",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.*",
+			"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/containers",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.scss",
+			"*.*",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.*",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/",
+			"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype",
+			"*.*",
+			"*.js",
+			"*.*",
+			"*.scss",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.json",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.*",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.*",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"",
+			"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/public/static/media/videos",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/",
+			"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src/*.js",
+			"/Users/soenke/Developer/Workspaces/Github/hds-kia-ja-campaign-prototype/src",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.*",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"device",
+			"nextframe",
+			"types",
+			": ",
+			"clear",
+			"iterator",
+			"createFrames",
+			"loadTrackData",
+			"preloadTracks",
+			"loaded",
+			"Loaded",
+			"loaded",
+			"preloading",
+			"trackDataLoaded",
+			"loadTrack",
+			"loadTrackData",
+			"preloadTracks",
+			"loadTrackData",
+			"preloadTracks",
+			"preloadComplete",
+			"preloadTracks",
+			"renderFrame",
+			"frameupdate",
+			"Timeout",
+			"timeout",
+			"Timeout",
+			"timeout",
+			"drawImageSrc",
+			"compositFrameLayer",
+			"createFrames",
+			"nextFrame",
+			"drawImage",
+			"loadTrackImages",
+			"compositFrameLayer",
+			"createFrames",
+			"loadTrackData",
+			"preloadTracks",
+			"images",
+			"loadImages",
+			"drawImage",
+			"compositFrameLayer",
+			"createImageFrames",
+			"loadImage",
+			"drawImageSrc",
+			"compositFrameLayer",
+			"body_ara_blue_",
+			"preloadTracks",
+			"loadTrackData",
+			"preloadTracks",
+			"tracksLoaded",
+			"preloadTracks",
+			"loadTrackData",
+			"preloadTracks",
+			"renderFrame",
+			"frameupdate",
+			"tracks",
+			"loadTrackData",
+			"compositFrameLayer",
+			"loadTrackData",
+			"sort",
+			"\"render\": \"true\",",
+			"loadTrackData",
+			"startPreload",
+			"preloadTracks",
+			"preloadTracks()",
+			"getTracksFromProps",
+			"createFrames",
+			"preloadTracks",
+			"getTracksFromProps",
+			"console",
+			"getTracksFromProps",
+			"baseUrl",
+			"iterator",
+			"drawImageSrc",
+			"keys",
+			"isAttribute",
+			"round",
+			"Props",
+			"props",
+			"startPreload",
+			"toggleDrag",
+			"toggleTrack",
+			"onStartDrag",
+			"round",
+			"easingProgress",
+			"https",
+			"dragState",
+			"onStartDrag",
+			"rafId",
+			"cancelRaf",
+			"raf",
+			"frameData",
+			"FrameData",
+			"frameData",
+			"FrameData",
+			"frameData",
+			"compositFrameLayer",
+			"this.frameData",
+			"renderFrame",
+			"cancelRaf",
+			"animationId",
+			"stopEasing",
+			"drawImageSrc",
+			"compositFrameLayer",
+			"getCanvas",
+			"drawImageSrc",
+			"compositFrameLayer",
+			"startPreload",
+			"compositFrameLayer",
+			"drawImageSrc",
+			"getDistance",
+			"distance",
+			"closestDistance",
+			"ClosestDistance",
+			"closestDistance",
+			"ClosestDistance",
+			"closestDistance",
+			"startPreload",
+			"preload",
+			"preloadFrame",
+			"frame",
+			"frames",
+			"frame",
+			"tablet",
+			"initializeWhen",
+			"image-r",
+			"image-render",
+			"../"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"render\": true,",
+			"if (require('../isProd'))",
+			"'../../",
+			"BUILD_HTML",
+			"BUILD_PRODUCTION_ASSETS",
+			"const Module = (props,",
+			"device",
+			"{state, key, value, lastValue}",
+			", ({state, value, lastValue}) => {",
+			"'../../lib/redux-subscriber'",
+			"",
+			"ParalluxContainer data-parallux-pov",
+			"ParalluxItem data-parallux-ratio",
+			"ParalluxItem",
+			"ja-section-features",
+			"SectionFeatures",
+			"START_SECTION",
+			"startSection",
+			"",
+			"import GridText from '../components/GridText';",
+			"if (globals.device && globals.device",
+			"target=\"_blank\" rel=\"noopener\"",
+			"configurator-drag-claim",
+			"data-rim",
+			"data-type",
+			"data-track-label",
+			"LazySectionProvider",
+			"iconClass=\"ja-icon-icon_external_link\" type=\"a\"",
+			"ja-root",
+			"FrameRange",
+			"car/kia_ja/celestial_blue",
+			"car/kia_ja/milky_beige_",
+			"car/kia_ja/sparkling_silver",
+			"car/kia_ja/aurora_black_pearl",
+			"car/kia_ja/honey_bee",
+			"car/kia_ja/shiny_red_",
+			"car/kia_ja/clear_white",
+			"car/kia_ja/alice_blue",
+			"",
+			"\"render\": true,",
+			"\"preload\": false,",
+			"</sup>",
+			"<sup>",
+			"<HeadlineTitle>",
+			"",
+			"parallax-image-module",
+			"lazyView",
+			"ja-kia-nav-",
+			"onChangeColor",
+			"767px",
+			"col-s",
+			"ja-grid-placeholder",
+			"/assets",
+			"animateLeaveEndName",
+			"animateLeaveName",
+			"animateEnterEndName",
+			"animateEnterName",
+			"frameData",
+			"Section360View",
+			"started",
+			"onStart",
+			"start",
+			"../../lib/",
+			"start()",
+			"componentTypes",
+			"SlideShow",
+			"ja-slideshow",
+			".ja-row",
+			"ja-section",
+			"app.preloadComplete",
+			"AssetsLoaded",
+			"&:before",
+			"&::before",
+			"fastdom.mutate",
+			"fastdom.measure",
+			"onDomReady",
+			"@include mobile(&)",
+			"Backbone.$ = window.jQuery;",
+			"let $ = window.jQuery;",
+			"var $ = window.jQuery;",
+			"is-sticky",
+			"",
+			"/imageproxy/300/169\"|cachbust() +\" 2x\"",
+			"\"/imageproxy/300/225\"|cachbust() +\" 2x\"",
+			"modalId",
+			"Altenahr",
+			"Alternarr",
+			"weathermap",
+			"gutterX",
+			"window.BGA.logout",
+			"'",
+			"",
+			"db-article",
+			"button button-block",
+			"imageLabel= \"Bilder\"",
+			"",
+			"SearchModule",
+			"LogoutModule",
+			"LoginModule",
+			"PLUGIN_NAME",
+			"Popover",
+			"\"/imageproxy/300/150\"|cachbust() +\" 1x,\"+\"/imageproxy/600/300\"|cachbust() +\" 2x\"",
+			"\"/imageproxy/30/30\"|cachbust() +\" 1x,\"+\"/imageproxy/60/60\"|cachbust() +\" 2x\"",
+			"\"/imageproxy/300/225\"|cachbust() +\" 1x,\"+\"/imageproxy/600/450\"|cachbust() +\" 2x\"",
+			"\"/imageproxy/620/465\"|cachbust() +\" 1x,\"+\"/imageproxy/1240/930\"|cachbust() +\" 2x\"",
+			"\"/imageproxy/300/169\"|cachbust() +\" 1x,\"+\"/imageproxy/600/338\"|cachbust() +\" 2x\"",
+			"imageproxy",
+			"/imageservice/1240/930/",
+			"/imageservice/620/465/",
+			"/imageservice/600/450/",
+			"/imageservice/300/225/",
+			"http://lorempixel.com/600/450/",
+			"http://lorempixel.com/300/225/",
+			"teaser-counter",
+			"",
+			"icon-newsletter",
+			"icon-twitter",
+			"icon-facebook",
+			"grid-1-1",
+			"grid-1-1-1",
+			"float-1-1",
+			"float-1-1-1",
+			"module",
+			"class=\"module",
+			"flexible-content",
+			"nth-child",
+			"<div>",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/decorator.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (SL).tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "rollup.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (SL).tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (SL).tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 462.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 381.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 134.0
+	},
+	"pinned_build_system": "",
+	"project": "microdispatch.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"todo",
+				"TODO"
+			],
+			[
+				"load",
+				"src/loadImage.js"
+			],
+			[
+				"ani",
+				"src/animal/animal.js"
+			],
+			[
+				"kmp",
+				"examples/kmpkt.html"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"to",
+				"TODO"
+			],
+			[
+				"image",
+				"src/image-player.js"
+			],
+			[
+				"frame",
+				"src/FrameObserver.js"
+			],
+			[
+				"index",
+				"src/index.scss"
+			],
+			[
+				"head",
+				"src/components/Header.prod.js"
+			],
+			[
+				"header",
+				"src/components/HeaderVideoTablet.js"
+			],
+			[
+				"com",
+				"src/components/ComponentProvider.js"
+			],
+			[
+				"ima",
+				"lib/imageplayer/image-player.js"
+			],
+			[
+				"swi",
+				"src/components/SwipeComponent.js"
+			],
+			[
+				"headervi",
+				"src/components/HeaderVideoMobile.js"
+			],
+			[
+				"conf",
+				"src/components/Configurator.prod.js"
+			],
+			[
+				"common",
+				"config/webpack.config.common.js"
+			],
+			[
+				".dev",
+				"config/webpack.config.dev.js"
+			],
+			[
+				"indexpr",
+				"src/index.prod.js"
+			],
+			[
+				"confico",
+				"src/components/ConfiguratorControls.js"
+			],
+			[
+				"sli",
+				"src/components/SlideShow.js"
+			],
+			[
+				"textslideshowhighlights3",
+				"src/components/TextSlideShowHighlights3.js"
+			],
+			[
+				"feat",
+				"src/containers/SectionFeatures/SectionFeatures.dev.js"
+			],
+			[
+				"tilt",
+				"src/components/TiltView.js"
+			],
+			[
+				"acc",
+				"src/components/AccordionToggle.js"
+			],
+			[
+				"secde",
+				"src/containers/SectionDesign/SectionDesign.prod.js"
+			],
+			[
+				"galle",
+				"src/containers/SectionGallery/SectionGallery.dev.js"
+			],
+			[
+				"modalcontent",
+				"src/components/ModalContent.js"
+			],
+			[
+				"modal",
+				"src/components/Modal.js"
+			],
+			[
+				"swipe",
+				"src/components/SwipeComponent.js"
+			],
+			[
+				"app",
+				"src/containers/App.js"
+			],
+			[
+				"modalga",
+				"src/components/ModalGallery.js"
+			],
+			[
+				"inde",
+				"src/index.scss"
+			],
+			[
+				"webpacomm",
+				"config/webpack.config.common.js"
+			],
+			[
+				"swip",
+				"src/components/SwipeComponent.scss"
+			],
+			[
+				"main",
+				"src/containers/Main.js"
+			],
+			[
+				"lazyload",
+				"src/utils/lazyload.js"
+			],
+			[
+				"context",
+				"src/constants/contextTypes.js"
+			],
+			[
+				"naviga",
+				"src/components/Navigation.prod.js"
+			],
+			[
+				"sectfe",
+				"src/containers/SectionFeatures/SectionFeatures.prod.js"
+			],
+			[
+				"sect",
+				"src/components/Section.js"
+			],
+			[
+				"imageplay",
+				"src/components/ImagePlayerCore.js"
+			],
+			[
+				"header.dev",
+				"src/components/Header.dev.js"
+			],
+			[
+				"headerv",
+				"src/components/HeaderVideoMobile.js"
+			],
+			[
+				"core",
+				"src/components/CoreComponent.js"
+			],
+			[
+				"stor",
+				"src/core/store.js"
+			],
+			[
+				"lazy",
+				"src/components/LazySectionProvider.js"
+			],
+			[
+				"confi",
+				"src/components/Configurator.prod.js"
+			],
+			[
+				"sectiondesign.prod",
+				"src/containers/SectionDesign/SectionDesign.prod.js"
+			],
+			[
+				"sectdes",
+				"src/containers/SectionDesign.js"
+			],
+			[
+				"componen",
+				"src/components/ComponentProvider.js"
+			],
+			[
+				"sectde",
+				"src/containers/SectionDesign.js"
+			],
+			[
+				"appre",
+				"src/reducers/app-reducer.js"
+			],
+			[
+				"comp",
+				"src/components/ComponentProvider.js"
+			],
+			[
+				"sectiongallery.dev",
+				"src/containers/SectionGallery/SectionGallery.dev.js"
+			],
+			[
+				"sectga",
+				"src/containers/SectionGallery.js"
+			],
+			[
+				"sectionspecialoffer",
+				"src/containers/SectionSpecialOffer/SectionSpecialOffer.scss"
+			],
+			[
+				"secttes",
+				"src/containers/SectionTestDrive/SectionTestDrive.scss"
+			],
+			[
+				"secdes",
+				"src/containers/SectionDesign.prod.js"
+			],
+			[
+				"lay",
+				"src/utils/lazyload.js"
+			],
+			[
+				"sectionga",
+				"src/containers/SectionGallery.js"
+			],
+			[
+				"grid",
+				"src/components/Grid.js"
+			],
+			[
+				"inv",
+				"src/utils/inViewport.js"
+			],
+			[
+				"ass",
+				"src/assets/assets.js"
+			],
+			[
+				"config",
+				"config/config.js"
+			],
+			[
+				"loadim",
+				"lib/imageplayer/loadImage.js"
+			],
+			[
+				"sectte",
+				"src/containers/SectionTestDrive.prod.js"
+			],
+			[
+				"sur",
+				"src/containers/SectionSurpriseDrive.dev.js"
+			],
+			[
+				"suprdr",
+				"src/containers/SectionSurpriseDrive.prod.js"
+			],
+			[
+				"os",
+				"src/utils/os.js"
+			],
+			[
+				"devi",
+				"src/utils/device.js"
+			],
+			[
+				"navi",
+				"src/components/Navigation.dev.js"
+			],
+			[
+				"nav",
+				"src/components/Navigation.prod.js"
+			],
+			[
+				"medialoaded",
+				"src/utils/mediaLoaded.js"
+			],
+			[
+				"corecomponent",
+				"src/components/CoreComponent.js"
+			],
+			[
+				"appred",
+				"src/reducers/app-reducer.js"
+			],
+			[
+				"appa",
+				"src/actions/app-actions.js"
+			],
+			[
+				"headpr",
+				"src/components/Header.prod.js"
+			],
+			[
+				"anima",
+				"lib/animal/animal.js"
+			],
+			[
+				"media",
+				"src/utils/mediaLoaded.js"
+			],
+			[
+				"imageplayercore",
+				"src/components/ImagePlayerCore.js"
+			],
+			[
+				"con.pr",
+				"src/components/Configurator.prod.js"
+			],
+			[
+				"headervideotablet",
+				"src/components/HeaderVideoTablet.js"
+			],
+			[
+				"tod",
+				"TODO.md"
+			],
+			[
+				"buil",
+				"scripts/build.js"
+			],
+			[
+				"indexprod",
+				"src/index.prod.js"
+			],
+			[
+				"navigat",
+				"src/components/Navigation.dev.js"
+			],
+			[
+				"drop",
+				"src/components/Dropdown.js"
+			],
+			[
+				"secttest",
+				"src/containers/SectionTestDrive.prod.js"
+			],
+			[
+				"secte",
+				"src/containers/SectionTestDrive.js"
+			],
+			[
+				".dev.js",
+				"src/containers/SectionTestDrive.dev.js"
+			],
+			[
+				"confpr",
+				"src/components/Configurator.prod.js"
+			],
+			[
+				"sect3",
+				"src/containers/Section360View.dev.js"
+			],
+			[
+				"rotateplease",
+				"src/components/RotatePlease.js"
+			],
+			[
+				"animal",
+				"lib/animal/animal.js"
+			],
+			[
+				"preloa",
+				"src/reducers/preloader-reducer.js"
+			],
+			[
+				"appac",
+				"src/actions/app-actions.js"
+			],
+			[
+				"prel",
+				"src/components/Preloader.scss"
+			],
+			[
+				"testd",
+				"src/containers/SectionTestDrive.js"
+			],
+			[
+				"spe",
+				"src/containers/SectionSpecialOffer.js"
+			],
+			[
+				"warr",
+				"src/containers/SectionWarranty.js"
+			],
+			[
+				"foot",
+				"src/containers/Footer.prod.js"
+			],
+			[
+				"offer",
+				"src/containers/SectionSpecialOffer.js"
+			],
+			[
+				"na",
+				"src/components/Navigation.dev.js"
+			],
+			[
+				"yout",
+				"src/components/YouTubeVideo.js"
+			],
+			[
+				"dro",
+				"src/components/Dropdown.js"
+			],
+			[
+				"headlinesubtitle",
+				"src/components/HeadlineSubTitle.js"
+			],
+			[
+				"headl",
+				"src/components/HeadlineSubTitle.js"
+			],
+			[
+				"tra",
+				"public/static/js/tracking.js"
+			],
+			[
+				"sub",
+				"lib/redux-subscriber.js"
+			],
+			[
+				"featu",
+				"src/containers/SectionFeatures.js"
+			],
+			[
+				"paralluxcontainer",
+				"src/components/ParalluxContainer.js"
+			],
+			[
+				"configuratorcontrols",
+				"src/components/ConfiguratorControls.js"
+			],
+			[
+				"section360view",
+				"src/containers/Section360View.js"
+			],
+			[
+				"indexp",
+				"src/index.prod.js"
+			],
+			[
+				"conten",
+				"src/components/Content.js"
+			],
+			[
+				"parallax",
+				"lib/Parallax.js"
+			],
+			[
+				"ti",
+				"src/components/TiltView.js"
+			],
+			[
+				"section",
+				"src/components/Section.js"
+			],
+			[
+				"comm",
+				"config/webpack.config.common.js"
+			],
+			[
+				"webpa",
+				"config/webpack.config.dev.static.js"
+			],
+			[
+				"slide",
+				"src/components/SlideShow.js"
+			],
+			[
+				"headline",
+				"src/components/Headline.js"
+			],
+			[
+				"site",
+				"src/utils/cleanSitecore.js"
+			],
+			[
+				"swisl",
+				"src/components/SlideShowSlide.js"
+			],
+			[
+				"navp",
+				"src/components/Navigation.prod.js"
+			],
+			[
+				"index.st",
+				"src/index.static.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Developer/Workspaces/Web/rheinischepost/rpo/rpo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
