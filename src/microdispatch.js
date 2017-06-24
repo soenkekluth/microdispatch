@@ -9,18 +9,20 @@ export default class MicroDispatch {
     if (!this.types[type]) {
       this.types[type] = [];
     }
-    this.types[type].push(handler);
+    if (this.types[type].indexOf(handler) === -1) {
+      this.types[type].push(handler);
+    }
     return this;
   }
 
   off(type, handler) {
     if (this.types[type]) {
-    	if(handler){
-      	this.types[type].splice(this.types[type].indexOf(handler), 1);
-    	}else {
-    		this.types[type].length = 0;
-    		delete this.types[type];
-    	}
+      if (handler) {
+        this.types[type].splice(this.types[type].indexOf(handler), 1);
+      } else {
+        this.types[type].length = 0;
+        delete this.types[type];
+      }
     }
     return this;
   }

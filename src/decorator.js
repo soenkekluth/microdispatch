@@ -1,11 +1,49 @@
+import MicroDispatch from './microdispatch';
+
 export default (target) => {
-  if(target.prototype && !target.prototype.dispatch){
-    wrap(target);
+
+  const micro = new MicroDispatch();
+  micro.on = micro.on.bind(micro);
+  micro.off = micro.off.bind(micro);
+  micro.dispatch = micro.dispatch.bind(micro);
+
+  const t = target.prototype ? target.prototype : target;
+
+  if (!t.dispatch) {
+    t.dispatch = micro.dispatch;
+  }
+  if (!t.on) {
+    t.on = micro.on;
+  }
+  if (!t.off) {
+    t.off = micro.off;
+  }
+
+  if (!target.prototype) {
+    t.__microDispatch = micro;
   }
 }
 
-function wrap(target, fnName, fn) {
-  const { prototype } = target;
-  const origin = prototype[fnName];
-  prototype[fnName] = fn;
-}
+// export default decorate;
+
+// function wrap(target, fnName, fn) {
+
+//   const { prototype } = target;
+//   const origin = prototype[fnName];
+//   prototype[fnName] = fn;
+// }
+
+/*
+decorate(target, 'dispatch', function(origin, ...args) {
+  micro.dispatch(...args)
+  // if (origin) {
+  //   origin.apply(this, ...args);
+  // }
+});
+ */
+// import wrap from 'lodash/wrap';
+
+// function decorate(target, functionName, fn) {
+//   const { prototype } = target;
+//   prototype[functionName] = wrap(prototype[functionName], fn);
+// }
