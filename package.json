@@ -1,6 +1,6 @@
 {
   "name": "microdispatch",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "minimal event dispatcher / emitter",
   "amdName": "MicroDispatch",
   "module": "es/microdispatch.js",
