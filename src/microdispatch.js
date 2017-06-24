@@ -3,6 +3,7 @@ export default class MicroDispatch {
   constructor(target) {
     this.types = {};
     this.target = target || this;
+    this.emit = this.dispatch.bind(this);
   }
 
   on(type, handler) {
