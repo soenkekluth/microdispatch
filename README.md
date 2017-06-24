@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/soenkekluth/microdispatch.svg?branch=master)](https://travis-ci.org/soenkekluth/microdispatch)
+
 # MicroDispatcher
 minimal event dispatcher / emitter
 
