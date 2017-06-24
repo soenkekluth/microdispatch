@@ -9,6 +9,7 @@
   "main": "./lib/microdispatch.js",
   "scripts": {
     "test": "ava -v",
+    "pretest": "yarn build",
     "clear": "rimraf lib dist es",
     "build": "npm-run-all clear build:cjs build:es build:browser build:umd",
     "build:commonjs": "cross-env BABEL_ENV=commonjs babel src --out-dir lib",
