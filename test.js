@@ -1,16 +1,16 @@
 import test from 'ava';
-import MicroDispatch, {dispatcher} from './lib/microdispatch';
+import MicroDispatch, {microdispatch} from './lib/microdispatch';
 
-const microDispatcher = new MicroDispatch();
+const emitter = new MicroDispatch();
 
 test('dispatches type and evt obj', t => {
 
-  microDispatcher.on('test', (e)=>{
+  emitter.on('test', (e)=>{
     t.true(e.type === 'test');
     t.true(e.foo === 'bar');
   })
 
-  microDispatcher.dispatch('test', {foo:'bar'});
+  emitter.emit('test', {foo:'bar'});
 });
 
 
@@ -25,10 +25,10 @@ test('adds handler only ones', t => {
     t.true(counter === 1);
   };
 
-  microDispatcher.on('test', handler);
-  microDispatcher.on('test', handler);
+  emitter.on('test', handler);
+  emitter.on('test', handler);
 
-  microDispatcher.dispatch('test', {foo:'bar'});
+  emitter.emit('test', {foo:'bar'});
 });
 
 
@@ -42,7 +42,7 @@ test('decorator', t => {
   	}
   }
 
-  dispatcher(Tester);
+  microdispatch(Tester);
 
   const tt = new Tester();
 
