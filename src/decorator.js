@@ -23,27 +23,3 @@ export default (target) => {
     t.__microDispatch = micro;
   }
 }
-
-// export default decorate;
-
-// function wrap(target, fnName, fn) {
-
-//   const { prototype } = target;
-//   const origin = prototype[fnName];
-//   prototype[fnName] = fn;
-// }
-
-/*
-decorate(target, 'dispatch', function(origin, ...args) {
-  micro.dispatch(...args)
-  // if (origin) {
-  //   origin.apply(this, ...args);
-  // }
-});
- */
-// import wrap from 'lodash/wrap';
-
-// function decorate(target, functionName, fn) {
-//   const { prototype } = target;
-//   prototype[functionName] = wrap(prototype[functionName], fn);
-// }
