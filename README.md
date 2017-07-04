@@ -21,12 +21,25 @@ micro.dispatch('test', {foo:'bar'});
 
 ```
 
-### use decorator
+### use global instance
 ```js
 import {dispatcher} from 'microdispatch';
 
+dispatcher.on('test', (e)=>{
+  console.log(e.type === 'test');
+  console.log(e.foo === 'bar');
+});
+
+dispatcher.emit('test', {foo:'bar'});
+
+```
+
+### use decorator
+```js
+import {microdispatch} from 'microdispatch';
+
 //v1: use es7 decorators
-@dispatcher
+@microdispatch
 class Tester {
 	onTest(e){
 		console.log(e.type === 'test');
@@ -35,7 +48,7 @@ class Tester {
 }
 
 //v2 use the decorator as a function
-dispatcher(Tester);
+microdispatch(Tester);
 
 const tt = new Tester();
 
