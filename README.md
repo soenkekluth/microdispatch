@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/soenkekluth/microdispatch.svg?branch=master)](https://travis-ci.org/soenkekluth/microdispatch)
 
 # MicroDispatcher
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/soenkekluth/microdispatch.svg)](https://greenkeeper.io/)
 minimal and performant event dispatcher / emitter supporting custom event objects
 
 
